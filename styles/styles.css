@@ -66,6 +66,7 @@ body {
 
 table{
     border-collapse:collapse ;
+    max-width: fit-content;
 }
 thead{
     font-weight: bold;
@@ -107,5 +108,5 @@ button{
   border-radius: 5px;
   border: 2px solid rgba(57, 137, 248, 0.826);
   padding: 3px;
-  width: 110px;
+  width: 90px;
 }
