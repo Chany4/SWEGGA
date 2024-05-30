@@ -10,7 +10,7 @@ body {
 /* page section */
 #page {
     width: 710px;
-    height:380px;
+    height:390px;
     background-color: white;
     margin: 10px auto;
     border: 2px solid black;
@@ -73,6 +73,10 @@ body {
 table{
     border-collapse:collapse ;
     max-width: fit-content;
+}
+
+form{
+    margin-top: 11px;
 }
 thead{
     font-weight: bold;
