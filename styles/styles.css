@@ -42,7 +42,13 @@ body {
     margin-top: 1em;
     height: 56px;
     width: 560px;
-    background-color: white; }
+    background-color: white; 
+}
+
+#navigation> [alt="navBar"]{
+    height: 56px;
+    width: 560px;
+}
     
 
 #copyright {
